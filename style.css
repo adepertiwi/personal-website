@@ -121,7 +121,7 @@ span{
     margin-left: 100px;
   }
 
-.btn-readmore{
+.btn-about{
     background-color: #1E80C1;
     color: #fff;
     border: none;
@@ -136,4 +136,41 @@ span{
     color: #1E80C1;
     text-align: center;
     padding: 20px;
+}
+
+footer h4 {
+    font-size: 32px;;
+    color: #1E80C1;
+    text-align: center;
+    padding: 20px;
+  }
+
+.social-media {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px; 
+}
+
+.btn-social {
+    background-color: #1E80C1;
+    color: #414C6B;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px; 
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.btn-social i {
+    font-size: 20px;
+}
+
+.btn-social:hover {
+    background-color: #414C6B;
+    color: #fff;
 }
