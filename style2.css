@@ -130,16 +130,16 @@ footer h5 {
 }
 
 .item p {
-    margin-top: 5px;
+    margin-top: 10px;
     color: #414C6B;
     text-align: justify;
 }
 
-.item-a{
+.btn-view{
     padding-top: 20px;
 }
 
-.item-a a{
+.btn-view a{
     align-items:center;
     background-color: #1E80C1;
     color: #fff;
