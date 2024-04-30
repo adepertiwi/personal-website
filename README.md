@@ -1,0 +1,3 @@
+**Website README**
+
+This website is a simple project created using only HTML and CSS. It's important to note that the website is not responsive, meaning it may not display properly on all devices. The primary purpose of this project was to practice basic HTML and CSS concepts rather than focusing on responsive design. Please view this website on a desktop or laptop for the best experience. Thank you for visiting!
